@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AHMEDSANA/AHMEDSANA/assets/73955220/6dd5fd92-9181-4f5c-8fbe-b2733e3cbe32)](https://AHMEDSANA.io)
+[![MasterHead](https://github.com/AHMEDSANA/AHMEDSANA/assets/73955220/cf9b6dc0-f683-43c2-8497-fe56dfb463a8)](https://AHMEDSANA.io)
 <h1 align="center">Hi 👋, I'm Ahmed Sana</h1>
 <h3 align="center">A passionate AI Engineer | Machine Learning Enthusiast | Artificial Neural Network Expert from Pakistan</h3>
 
