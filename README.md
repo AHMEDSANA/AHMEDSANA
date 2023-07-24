@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/AHMEDSANA/AHMEDSANA/assets/73955220/acf5f0c4-7bab-4af1-85a8-b640003bc2ae)](https://AHMEDSANA.io)
 <h1 align="center">Hi 👋, I'm Ahmed Sana</h1>
-<h3 align="center">A passionate AI Engineer | Machine Learning Enthusiast | Artificial Neural Network Expert from Pakistan</h3>
+<h3 align="center">A passionate AI Engineer | Machine Learning Enthusiast | Artificial Neural Network Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsana&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsana" /> </p>
 <p align="center">
