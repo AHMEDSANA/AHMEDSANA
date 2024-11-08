@@ -1,7 +1,16 @@
 # 📲 AI Engineer
 
 ### ➡️ Contact for Professional Collaboration: 
-📥 **sanaullah14336@gmail.com**
+
+<div align="center">
+  <a href="mailto:sanaullah14336@gmail.com">
+    <img src="https://img.shields.io/badge/✉ Professional_Contact-sanaullah14336@gmail.com-006400?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F222E"/>
+  </a>
+</div>
+
+<div align="center">
+  🌐 Let's Connect | 🤝 Collaborate | 🚀 Innovate
+</div>
 
 ## Introduction
 
@@ -14,44 +23,41 @@
 
 <p align="center">
   <a href="https://github.com/AHMEDSANA?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AHMEDSANA?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/AHMEDSANA"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AHMEDSANA?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
-
-## Profile Views
-<p align="center">
-<a href="https://github.com/AHMEDSANA"> <img src="https://komarev.com/ghpvc/?username=AHMEDSANA&style=for-the-badge&color=brightgreen"> </a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AHMEDSANA?color=236ad3&style=for-the-badge&labelColor=4B4B4B&logo=star"/></a>
+   <a href="https://github.com/AHMEDSANA"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AHMEDSANA?color=236ad3&style=for-the-badge&logo=github&label=Follow&labelColor=4B4B4B"/></a>
+<a href="https://github.com/AHMEDSANA"> <img src="https://komarev.com/ghpvc/?username=AHMEDSANA&style=for-the-badge&color=236ad3"> </a>
 </p>
 
 ## Technical Skills
 
 ### AI & Deep Learning
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4B8BBE?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FFA500?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-FF1493?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-025196?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-025196?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-025196?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-025196?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-025196?style=for-the-badge)
 
 ### Computer Vision & Image Processing
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-3776AB?style=for-the-badge)
-![Image Generation](https://img.shields.io/badge/Image_Generation-FF4B4B?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-005700?style=for-the-badge) <!-- Dark Green -->
+![Image Generation](https://img.shields.io/badge/Image_Generation-005700?style=for-the-badge) <!-- Dark Green -->
+![OpenCV](https://img.shields.io/badge/OpenCV-005700?style=for-the-badge) <!-- Dark Green -->
 
 ### Data Science
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4DB6AC?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6384?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-8B0000?style=for-the-badge) <!-- Dark Red -->
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-8B0000?style=for-the-badge) <!-- Dark Red -->
+![NumPy](https://img.shields.io/badge/NumPy-8B0000?style=for-the-badge) <!-- Dark Red -->
+![Pandas](https://img.shields.io/badge/Pandas-8B0000?style=for-the-badge) <!-- Dark Red -->
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8B0000?style=for-the-badge) <!-- Dark Red -->
 
 ### Frameworks & Tools
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-FF8C00?style=for-the-badge) <!-- Orange -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8C00?style=for-the-badge) <!-- Orange -->
+![PyTorch](https://img.shields.io/badge/PyTorch-FF8C00?style=for-the-badge) <!-- Orange -->
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-5D3FD3?style=for-the-badge&logo=python&logoColor=white) <!-- Dark Purple -->
+![C](https://img.shields.io/badge/C_Language-5D3FD3?style=for-the-badge&logo=c&logoColor=white) <!-- Dark Purple -->
+![MATLAB](https://img.shields.io/badge/MATLAB-5D3FD3?style=for-the-badge) <!-- Dark Purple -->
 
 ## Languages and Tools
 
@@ -81,38 +87,34 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
-## My Stats:
+## My GitHub Statistics
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AHMEDSANA&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-## Activity On GitHub
-
-<p align="center">
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMEDSANA&theme=dark&hide_border=true&stroke=f53b3b"/>
-</p>
-
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMEDSANA&hide_border=true&show_icons=true&theme=gruvbox&bg_color=151515&layout=compact" alt="AHMEDSANA" />
-</p>
-
-<!-- Profile Banner -->
-<p align="center">
-  <img width="100%" height="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="AI Banner">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AHMEDSANA&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDSANA&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
 <div align="center">
   <h2>💫 Highlighted Projects</h2>
   
-  [![Brain Tumor Segmentation](https://img.shields.io/badge/🧠_Binary_Class_Brain_Tumor_Segmentation-Using_UNET-F8D866?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Binary-Class-Brain-Tumor-Segmentation-Using-UNET)
+  [![Brain Tumor Segmentation](https://img.shields.io/badge/🧠_Binary_Class_Brain_Tumor_Segmentation-Using_UNET-FF0000?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Binary-Class-Brain-Tumor-Segmentation-Using-UNET)
 
   [![Multi-class Tumor Segmentation](https://img.shields.io/badge/🔬_Four_Class_Brain_Tumor_Segmentation-Advanced_Classification-00FF00?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Four-class-Brain-tumor-segmentation.)
 
-  [![Stable Diffusion](https://img.shields.io/badge/🎨_Stable_Diffusion-Image_Generation-FF69B4?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Stable-Diffusion)
+  [![Stable Diffusion](https://img.shields.io/badge/🎨_Stable_Diffusion-Image_Generation-0000FF?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Stable-Diffusion)
+
+  <br>
 
   <a href="https://github.com/AHMEDSANA?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-View_Complete_Portfolio-1F222E?style=for-the-badge&logoColor=white&logo=collection"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-View_Complete_Portfolio-006400?style=for-the-badge&logoColor=white&logo=collection"/>
   </a>
 </div>
+
+
+<br>
+
+<!-- Profile Banner -->
+<p align="center">
+  <img width="100%" height="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="AI Banner">
+</p>
