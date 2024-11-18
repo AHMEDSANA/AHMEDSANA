@@ -20,12 +20,10 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/AHMEDSANA">Ahmed Sana</a></h3>
 <h5 align="center">A passionate AI Engineer specializing in Artificial Neural Networks and Computer Vision</h5>
 <p align="center">
-  <a href="https://github.com/AHMEDSANA?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AHMEDSANA?logo=star&logoColor=white&style=for-the-badge&labelColor=4B4B4B"/></a>
-  <a href="https://github.com/AHMEDSANA">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AHMEDSANA?logo=github&logoColor=white&style=for-the-badge&labelColor=4B4B4B"/></a>
-  <a href="https://github.com/AHMEDSANA">
-    <img src="https://komarev.com/ghpvc/?username=AHMEDSANA&style=for-the-badge&labelColor=4B4B4B"/></a>
+  <a href="https://github.com/AHMEDSANA?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AHMEDSANA?color=236ad3&style=for-the-badge&labelColor=4B4B4B&logo=star"/></a>
+   <a href="https://github.com/AHMEDSANA"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AHMEDSANA?color=236ad3&style=for-the-badge&logo=github&label=Follow&labelColor=4B4B4B"/></a>
+<a href="https://github.com/AHMEDSANA"><img src="https://komarev.com/ghpvc/?username=AHMEDSANA&style=for-the-badge&color=236ad3&label=Profile%20Views"/></a>
 </p>
 
 ## Technical Skills
