@@ -57,33 +57,105 @@
 ![C](https://img.shields.io/badge/C_Language-5D3FD3?style=for-the-badge&logo=c&logoColor=white) <!-- Dark Purple -->
 ![MATLAB](https://img.shields.io/badge/MATLAB-5D3FD3?style=for-the-badge) <!-- Dark Purple -->
 
+### Deployment & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-008080?style=for-the-badge&logo=linux&logoColor=white) <!-- Teal -->
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-008080?style=for-the-badge&logo=huggingface&logoColor=white) <!-- Teal -->
+![Streamlit](https://img.shields.io/badge/Streamlit-008080?style=for-the-badge&logo=streamlit&logoColor=white) <!-- Teal -->
+![FastAPI](https://img.shields.io/badge/FastAPI-008080?style=for-the-badge&logo=fastapi&logoColor=white) <!-- Teal -->
+
 ## Languages and Tools
 
-<!-- Detailed Technology Stack -->
-<p align="left">
-<!-- Programming Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
-<!-- Deep Learning & ML -->
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-
-<!-- Data Science -->
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img src="https://scikit-image.org/_static/img/logo.png" alt="skimage" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/nipy/nibabel/master/doc/source/_static/nibabel-logo.svg" alt="nibabel" width="40" height="40"/>
-
-<!-- Development Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-</p>
+<!-- Replace with a centered table -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://keras.io/img/logo.png" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
+      <br>Scikit-Learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <img src="https://scikit-image.org/_static/img/logo.png" width="48" height="48" alt="Scikit-Image" />
+      <br>Scikit-Image
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/nipy/nibabel/master/doc/source/_static/nibabel-logo.svg" width="48" height="48" alt="NiBabel" />
+      <br>NiBabel
+    </td>
+    <td align="center" width="96">
+      <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+  </tr>
+</table>
 
 ## My GitHub Statistics
 
@@ -93,26 +165,42 @@
 </p>
 
 
+
 <div align="center">
   <h2>💫 Highlighted Projects</h2>
   
-  [![Brain Tumor Segmentation](https://img.shields.io/badge/🧠_Binary_Class_Brain_Tumor_Segmentation-Using_UNET-FF0000?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Binary-Class-Brain-Tumor-Segmentation-Using-UNET)
-
-  [![Multi-class Tumor Segmentation](https://img.shields.io/badge/🔬_Four_Class_Brain_Tumor_Segmentation-Advanced_Classification-00FF00?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Four-class-Brain-tumor-segmentation.)
-
-  [![Stable Diffusion](https://img.shields.io/badge/🎨_Stable_Diffusion-Image_Generation-0000FF?style=for-the-badge&labelColor=1F222E)](https://github.com/AHMEDSANA/Stable-Diffusion)
+  <div style="margin-bottom: 20px;">
+    <a href="https://github.com/AHMEDSANA/Binary-Class-Brain-Tumor-Segmentation-Using-UNET">
+      <img src="https://img.shields.io/badge/🧠_Binary_Class_Brain_Tumor_Segmentation-Using_UNET-FF0000?style=for-the-badge&labelColor=1F222E"/>
+    </a>
+    <p><em>Advanced neural network model for detecting brain tumors from MRI scans</em></p>
+  </div>
+  
+  <div style="margin-bottom: 20px;">
+    <a href="https://github.com/AHMEDSANA/Four-class-Brain-tumor-segmentation.">
+      <img src="https://img.shields.io/badge/🔬_Four_Class_Brain_Tumor_Segmentation-Advanced_Classification-00FF00?style=for-the-badge&labelColor=1F222E"/>
+    </a>
+    <p><em>Multi-class segmentation model for precise tumor boundary identification</em></p>
+  </div>
+  
+  <div style="margin-bottom: 20px;">
+    <a href="https://github.com/AHMEDSANA/Stable-Diffusion">
+      <img src="https://img.shields.io/badge/🎨_Stable_Diffusion-Image_Generation-0000FF?style=for-the-badge&labelColor=1F222E"/>
+    </a>
+    <p><em>State-of-the-art image generation using diffusion models</em></p>
+  </div>
 
   <br>
 
   <a href="https://github.com/AHMEDSANA?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-View_Complete_Portfolio-006400?style=for-the-badge&logoColor=white&logo=collection"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-View_Complete_Portfolio-006400?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </div>
 
-
 <br>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img width="100%" height="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="AI Banner">
-</p>
+<h2 align="center">🔥 GitHub Streak Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMEDSANA&theme=tokyonight&hide_border=true" alt="AHMEDSANA's GitHub streak"/>
+</div>
