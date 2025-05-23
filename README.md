@@ -155,6 +155,16 @@
       <br>Matplotlib
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+      <br>MATLAB
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
 </table>
 
 ## My GitHub Statistics
