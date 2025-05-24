@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" height="273" width="307" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" height="273" width="307" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" autoplay loop>
 
 ```yaml
 Name: Ahmed Sana
