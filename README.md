@@ -21,8 +21,8 @@
 
 <p align="center">
   <a href="https://github.com/AHMEDSANA?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AHMEDSANA?color=667eea&style=for-the-badge&labelColor=2d3748&logo=star"/>
-  </a>
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AHMEDSANA?color=667eea&style=for-the-badge&labelColor=2d3748&logo=star&v=12345"/>
+</a>
   <a href="https://github.com/AHMEDSANA">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AHMEDSANA?color=764ba2&style=for-the-badge&labelColor=2d3748&logo=person-add"/>
   </a>
